@@ -8,10 +8,10 @@ Programa para tradução de palavras nos idiomas disponíveis
 <h4>Créditos</h4>
 ![Créditos](http://www.jsagon.com/img/img_projetos/tradutor_python_v1_2.jpg "Créditos")
 
-<h4>Tradução do português para o inglês</h4>
+<h4>Tradução - português para o inglês</h4>
 ![Tradução do português para o inglês](http://www.jsagon.com/img/img_projetos/tradutor_python_v1_3.jpg "Tradução do português para o inglês")
 
-<h4>Tradução do inglês para o português</h4>
+<h4>Tradução - inglês para o português</h4>
 ![Tradução do inglês para o português](http://www.jsagon.com/img/img_projetos/tradutor_python_v1_4.jpg "Tradução do inglês para o português")
 
 <h4>Atualizações</h4>
