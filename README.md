@@ -3,16 +3,16 @@
 Programa para tradução de palavras nos idiomas disponíveis
 
 <h4>Menu principal</h4>
-![Menu principal](http://www.jsagon.com/img/img_projetos/tradutor_python_v1_1.jpg "Menu principal")
+![Menu principal](https://raw.githubusercontent.com/jsagon/screenshot/master/tradutor_python_v1_1.jpg "Menu principal")
 
 <h4>Créditos</h4>
-![Créditos](http://www.jsagon.com/img/img_projetos/tradutor_python_v1_2.jpg "Créditos")
+![Créditos](https://github.com/jsagon/screenshot/blob/master/tradutor_python_v1_2.jpg?raw=true "Créditos")
 
 <h4>Tradução - português para o inglês</h4>
-![Tradução do português para o inglês](http://www.jsagon.com/img/img_projetos/tradutor_python_v1_3.jpg "Tradução do português para o inglês")
+![Tradução do português para o inglês](https://github.com/jsagon/screenshot/blob/master/tradutor_python_v1_3.jpg?raw=true "Tradução do português para o inglês")
 
 <h4>Tradução - inglês para o português</h4>
-![Tradução do inglês para o português](http://www.jsagon.com/img/img_projetos/tradutor_python_v1_4.jpg "Tradução do inglês para o português")
+![Tradução do inglês para o português](https://github.com/jsagon/screenshot/blob/master/tradutor_python_v1_4.jpg?raw=true "Tradução do inglês para o português")
 
 <h4>Atualizações</h4>
 Estarei adicionando novos idiomas e melhorando os métodos de buscas.
